@@ -26,11 +26,12 @@
 - https://xxx
 
 ## reference site:
-- 
+- https://www.weblab.co.jp/blog/creator/12793.html
+- https://www.weblab.co.jp/demo/2206/
 
 ## 更新履歴
 
-- 2023/mm/dd 初版 作成完了
+- 2023/3/5 初版 作成完了
 
 ## 環境起動手順
 - term起動
