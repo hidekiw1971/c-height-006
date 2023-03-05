@@ -1,0 +1,60 @@
+@use "global" as *;
+
+header {
+    text-align: left;
+    background: rgba(186, 85, 211, 0.8);
+    padding: rem(50) rem(20);
+    margin-bottom: 100vh;
+}
+
+footer {
+    text-align: center;
+    background: rgba(135, 206, 250, 0.8);
+    padding: rem(50) rem(20);
+}
+
+.box {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+
+.box>div:not(:last-child) {
+    margin-right: rem(50);
+}
+
+.box100p,
+.box100vh,
+.box100lvh,
+.box100svh,
+.box100dvh {
+    writing-mode: vertical-rl;
+    padding: rem(20) rem(5);
+    background: rgba(0, 128, 0, 0.5);
+}
+
+.box100p {
+    height: 100%;
+}
+
+.box100vh {
+    height: 100vh;
+}
+
+.box100lvh {
+    height: 100lvh;
+}
+
+.box100svh {
+    height: 100svh;
+}
+
+.box100dvh {
+    height: 100dvh;
+}
+
+.box100dvh {
+    background: rgba(255, 165, 0, 0.5);
+}
