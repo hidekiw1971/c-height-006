@@ -1,16 +1,22 @@
-画像をコピペ
+<img width="1317" alt="image" src="https://user-images.githubusercontent.com/99580997/222937418-bb127fe5-0725-4077-86ed-31ecd258858e.png">
 
 # compornent（共通部品）
-- 説明
+- 100dvhの動作検証（やはりこれで問題ない）
 
 # w3c html/css ck
 - confirmed or unconfirmed
 
 # browser ck
-- chrome ok ng
-- safari ok ng
-- firefox ok ng
-- edge ok ng
+## pc実機ck
+- chrome → ok
+- firefox → ok
+- safari → ok
+- edge → unconfirmed
+## mobile実機ck（iPhone）
+- chrome → ok
+- firefox → ok
+- safari → ok
+- edge → unconfirmed
 
 ## portfolio url:
 
